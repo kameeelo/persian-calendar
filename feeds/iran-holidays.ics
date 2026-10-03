@@ -1,0 +1,322 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Independent Persian Calendar//Occasions 1.0//FA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:تعطیلات ایران — ۱۴۰۵
+X-WR-CALDESC:تعطیلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدو
+ ن جمعه‌های عادی و تعطیلی‌های موردی. سال
+ ‌های بعد هنوز اضافه نشده‌اند.
+BEGIN:VEVENT
+UID:iran-holiday-14050101@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:تعطیل: نوروز و عید فطر
+DESCRIPTION:شمسی: ۱۴۰۵/۰۱/۰۱\nمیلادی: 2026-03-21\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14050102@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:تعطیل: نوروز و تعطیل عید فطر
+DESCRIPTION:شمسی: ۱۴۰۵/۰۱/۰۲\nمیلادی: 2026-03-22\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14050103@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:تعطیل: نوروز
+DESCRIPTION:شمسی: ۱۴۰۵/۰۱/۰۳\nمیلادی: 2026-03-23\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14050104@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+SUMMARY:تعطیل: نوروز
+DESCRIPTION:شمسی: ۱۴۰۵/۰۱/۰۴\nمیلادی: 2026-03-24\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14050112@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:تعطیل: روز جمهوری اسلامی
+DESCRIPTION:شمسی: ۱۴۰۵/۰۱/۱۲\nمیلادی: 2026-04-01\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14050113@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:تعطیل: روز طبیعت
+DESCRIPTION:شمسی: ۱۴۰۵/۰۱/۱۳\nمیلادی: 2026-04-02\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14050125@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:تعطیل: شهادت امام جعفر صادق
+DESCRIPTION:شمسی: ۱۴۰۵/۰۱/۲۵\nمیلادی: 2026-04-14\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14050306@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:تعطیل: عید قربان
+DESCRIPTION:شمسی: ۱۴۰۵/۰۳/۰۶\nمیلادی: 2026-05-27\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14050314@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:تعطیل: عید غدیر و رحلت امام خمینی
+DESCRIPTION:شمسی: ۱۴۰۵/۰۳/۱۴\nمیلادی: 2026-06-04\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14050315@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:تعطیل: قیام ۱۵ خرداد
+DESCRIPTION:شمسی: ۱۴۰۵/۰۳/۱۵\nمیلادی: 2026-06-05\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14050403@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:تعطیل: تاسوعا
+DESCRIPTION:شمسی: ۱۴۰۵/۰۴/۰۳\nمیلادی: 2026-06-24\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14050404@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:تعطیل: عاشورا
+DESCRIPTION:شمسی: ۱۴۰۵/۰۴/۰۴\nمیلادی: 2026-06-25\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14050513@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:تعطیل: اربعین
+DESCRIPTION:شمسی: ۱۴۰۵/۰۵/۱۳\nمیلادی: 2026-08-04\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14050521@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:تعطیل: رحلت پیامبر و شهادت امام حسن
+DESCRIPTION:شمسی: ۱۴۰۵/۰۵/۲۱\nمیلادی: 2026-08-12\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14050522@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:تعطیل: شهادت امام رضا
+DESCRIPTION:شمسی: ۱۴۰۵/۰۵/۲۲\nمیلادی: 2026-08-13\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14050530@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:تعطیل: شهادت امام حسن عسکری
+DESCRIPTION:شمسی: ۱۴۰۵/۰۵/۳۰\nمیلادی: 2026-08-21\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14050608@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:تعطیل: ولادت پیامبر و امام جعفر صادق
+DESCRIPTION:شمسی: ۱۴۰۵/۰۶/۰۸\nمیلادی: 2026-08-30\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14050822@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:تعطیل: شهادت حضرت فاطمه
+DESCRIPTION:شمسی: ۱۴۰۵/۰۸/۲۲\nمیلادی: 2026-11-13\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14051002@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:تعطیل: ولادت امام علی و روز پدر
+DESCRIPTION:شمسی: ۱۴۰۵/۱۰/۰۲\nمیلادی: 2026-12-23\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14051016@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:تعطیل: مبعث پیامبر
+DESCRIPTION:شمسی: ۱۴۰۵/۱۰/۱۶\nمیلادی: 2027-01-06\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14051104@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:تعطیل: نیمهٔ شعبان
+DESCRIPTION:شمسی: ۱۴۰۵/۱۱/۰۴\nمیلادی: 2027-01-24\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14051122@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:تعطیل: سالگرد انقلاب اسلامی
+DESCRIPTION:شمسی: ۱۴۰۵/۱۱/۲۲\nمیلادی: 2027-02-11\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14051209@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:تعطیل: شهادت امام علی
+DESCRIPTION:شمسی: ۱۴۰۵/۱۲/۰۹\nمیلادی: 2027-02-28\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14051219@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:تعطیل: عید فطر
+DESCRIPTION:شمسی: ۱۴۰۵/۱۲/۱۹\nمیلادی: 2027-03-10\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14051220@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:تعطیل: تعطیل عید فطر
+DESCRIPTION:شمسی: ۱۴۰۵/۱۲/۲۰\nمیلادی: 2027-03-11\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-holiday-14051229@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:تعطیل: روز ملی شدن صنعت نفت
+DESCRIPTION:شمسی: ۱۴۰۵/۱۲/۲۹\nمیلادی: 2027-03-20\nتعط
+ یلات تقویم منتشرشدهٔ ۱۴۰۵؛ بدون جمعه‌ها
+ ی عادی و تعطیلی‌های موردی. سال‌های بعد ه
+ نوز اضافه نشده‌اند.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

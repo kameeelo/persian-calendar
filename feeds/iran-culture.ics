@@ -1,0 +1,1875 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Independent Persian Calendar//Occasions 1.0//FA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:مناسبت‌های فرهنگی ایران
+X-WR-CALDESC:گزیدهٔ مناسبت‌های فرهنگی با تاری
+ خ ثابت شمسی؛ تکرار بر مبنای تقویم ۱۴۰۵. ا
+ ین عنوان به‌تنهایی به معنی تعطیلی نیست.
+BEGIN:VEVENT
+UID:iran-culture-14050101@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:جشن نوروز
+DESCRIPTION:شمسی: ۱۴۰۵/۰۱/۰۱\nمیلادی: 2026-03-21\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050106@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:زادروز زرتشت
+DESCRIPTION:شمسی: ۱۴۰۵/۰۱/۰۶\nمیلادی: 2026-03-26\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050107@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:روز هنرهای نمایشی
+DESCRIPTION:شمسی: ۱۴۰۵/۰۱/۰۷\nمیلادی: 2026-03-27\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050113@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:سیزده‌بدر؛ روز طبیعت
+DESCRIPTION:شمسی: ۱۴۰۵/۰۱/۱۳\nمیلادی: 2026-04-02\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050125@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:بزرگداشت عطار نیشابوری
+DESCRIPTION:شمسی: ۱۴۰۵/۰۱/۲۵\nمیلادی: 2026-04-14\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050201@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:بزرگداشت سعدی؛ روز نثر فارسی
+DESCRIPTION:شمسی: ۱۴۰۵/۰۲/۰۱\nمیلادی: 2026-04-21\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050210@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:روز خلیج فارس
+DESCRIPTION:شمسی: ۱۴۰۵/۰۲/۱۰\nمیلادی: 2026-04-30\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050225@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:بزرگداشت فردوسی؛ روز زبان فارسی
+DESCRIPTION:شمسی: ۱۴۰۵/۰۲/۲۵\nمیلادی: 2026-05-15\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050228@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:بزرگداشت خیام
+DESCRIPTION:شمسی: ۱۴۰۵/۰۲/۲۸\nمیلادی: 2026-05-18\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050301@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:بزرگداشت ملاصدرا
+DESCRIPTION:شمسی: ۱۴۰۵/۰۳/۰۱\nمیلادی: 2026-05-22\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050414@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:روز قلم
+DESCRIPTION:شمسی: ۱۴۰۵/۰۴/۱۴\nمیلادی: 2026-07-05\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050418@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:روز ادبیات کودکان و نوجوانان
+DESCRIPTION:شمسی: ۱۴۰۵/۰۴/۱۸\nمیلادی: 2026-07-09\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050422@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:بزرگداشت خوارزمی
+DESCRIPTION:شمسی: ۱۴۰۵/۰۴/۲۲\nمیلادی: 2026-07-13\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050508@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:بزرگداشت سهروردی
+DESCRIPTION:شمسی: ۱۴۰۵/۰۵/۰۸\nمیلادی: 2026-07-30\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050601@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:بزرگداشت ابن‌سینا؛ روز پزشک
+DESCRIPTION:شمسی: ۱۴۰۵/۰۶/۰۱\nمیلادی: 2026-08-23\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050605@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:بزرگداشت زکریای رازی
+DESCRIPTION:شمسی: ۱۴۰۵/۰۶/۰۵\nمیلادی: 2026-08-27\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050613@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:بزرگداشت ابوریحان بیرونی
+DESCRIPTION:شمسی: ۱۴۰۵/۰۶/۱۳\nمیلادی: 2026-09-04\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050621@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:روز سینما
+DESCRIPTION:شمسی: ۱۴۰۵/۰۶/۲۱\nمیلادی: 2026-09-12\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050627@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:روز شعر و ادب فارسی؛ بزرگداشت شهریار
+DESCRIPTION:شمسی: ۱۴۰۵/۰۶/۲۷\nمیلادی: 2026-09-18\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050707@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:بزرگداشت شمس تبریزی
+DESCRIPTION:شمسی: ۱۴۰۵/۰۷/۰۷\nمیلادی: 2026-09-29\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050708@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:بزرگداشت مولانا
+DESCRIPTION:شمسی: ۱۴۰۵/۰۷/۰۸\nمیلادی: 2026-09-30\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050720@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:بزرگداشت حافظ
+DESCRIPTION:شمسی: ۱۴۰۵/۰۷/۲۰\nمیلادی: 2026-10-12\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050801@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:بزرگداشت ابوالفضل بیهقی
+DESCRIPTION:شمسی: ۱۴۰۵/۰۸/۰۱\nمیلادی: 2026-10-23\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050824@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:روز کتاب و کتاب‌خوانی
+DESCRIPTION:شمسی: ۱۴۰۵/۰۸/۲۴\nمیلادی: 2026-11-15\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050925@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:روز پژوهش
+DESCRIPTION:شمسی: ۱۴۰۵/۰۹/۲۵\nمیلادی: 2026-12-16\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14050930@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:شب یلدا
+DESCRIPTION:شمسی: ۱۴۰۵/۰۹/۳۰\nمیلادی: 2026-12-21\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14051004@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:بزرگداشت رودکی
+DESCRIPTION:شمسی: ۱۴۰۵/۱۰/۰۴\nمیلادی: 2026-12-25\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14051205@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:بزرگداشت خواجه نصیرالدین طوسی؛ روز م
+ هندس
+DESCRIPTION:شمسی: ۱۴۰۵/۱۲/۰۵\nمیلادی: 2027-02-24\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14051215@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:روز درختکاری
+DESCRIPTION:شمسی: ۱۴۰۵/۱۲/۱۵\nمیلادی: 2027-03-06\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14051221@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:بزرگداشت نظامی گنجوی
+DESCRIPTION:شمسی: ۱۴۰۵/۱۲/۲۱\nمیلادی: 2027-03-12\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14051225@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:بزرگداشت پروین اعتصامی
+DESCRIPTION:شمسی: ۱۴۰۵/۱۲/۲۵\nمیلادی: 2027-03-16\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060101@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:جشن نوروز
+DESCRIPTION:شمسی: ۱۴۰۶/۰۱/۰۱\nمیلادی: 2027-03-21\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060106@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:زادروز زرتشت
+DESCRIPTION:شمسی: ۱۴۰۶/۰۱/۰۶\nمیلادی: 2027-03-26\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060107@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:روز هنرهای نمایشی
+DESCRIPTION:شمسی: ۱۴۰۶/۰۱/۰۷\nمیلادی: 2027-03-27\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060113@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:سیزده‌بدر؛ روز طبیعت
+DESCRIPTION:شمسی: ۱۴۰۶/۰۱/۱۳\nمیلادی: 2027-04-02\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060125@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:بزرگداشت عطار نیشابوری
+DESCRIPTION:شمسی: ۱۴۰۶/۰۱/۲۵\nمیلادی: 2027-04-14\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060201@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:بزرگداشت سعدی؛ روز نثر فارسی
+DESCRIPTION:شمسی: ۱۴۰۶/۰۲/۰۱\nمیلادی: 2027-04-21\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060210@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:روز خلیج فارس
+DESCRIPTION:شمسی: ۱۴۰۶/۰۲/۱۰\nمیلادی: 2027-04-30\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060225@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:بزرگداشت فردوسی؛ روز زبان فارسی
+DESCRIPTION:شمسی: ۱۴۰۶/۰۲/۲۵\nمیلادی: 2027-05-15\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060228@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:بزرگداشت خیام
+DESCRIPTION:شمسی: ۱۴۰۶/۰۲/۲۸\nمیلادی: 2027-05-18\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060301@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:بزرگداشت ملاصدرا
+DESCRIPTION:شمسی: ۱۴۰۶/۰۳/۰۱\nمیلادی: 2027-05-22\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060414@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:روز قلم
+DESCRIPTION:شمسی: ۱۴۰۶/۰۴/۱۴\nمیلادی: 2027-07-05\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060418@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:روز ادبیات کودکان و نوجوانان
+DESCRIPTION:شمسی: ۱۴۰۶/۰۴/۱۸\nمیلادی: 2027-07-09\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060422@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270713
+DTEND;VALUE=DATE:20270714
+SUMMARY:بزرگداشت خوارزمی
+DESCRIPTION:شمسی: ۱۴۰۶/۰۴/۲۲\nمیلادی: 2027-07-13\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060508@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:بزرگداشت سهروردی
+DESCRIPTION:شمسی: ۱۴۰۶/۰۵/۰۸\nمیلادی: 2027-07-30\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060601@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+SUMMARY:بزرگداشت ابن‌سینا؛ روز پزشک
+DESCRIPTION:شمسی: ۱۴۰۶/۰۶/۰۱\nمیلادی: 2027-08-23\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060605@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:بزرگداشت زکریای رازی
+DESCRIPTION:شمسی: ۱۴۰۶/۰۶/۰۵\nمیلادی: 2027-08-27\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060613@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:بزرگداشت ابوریحان بیرونی
+DESCRIPTION:شمسی: ۱۴۰۶/۰۶/۱۳\nمیلادی: 2027-09-04\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060621@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:روز سینما
+DESCRIPTION:شمسی: ۱۴۰۶/۰۶/۲۱\nمیلادی: 2027-09-12\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060627@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:روز شعر و ادب فارسی؛ بزرگداشت شهریار
+DESCRIPTION:شمسی: ۱۴۰۶/۰۶/۲۷\nمیلادی: 2027-09-18\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060707@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20270930
+SUMMARY:بزرگداشت شمس تبریزی
+DESCRIPTION:شمسی: ۱۴۰۶/۰۷/۰۷\nمیلادی: 2027-09-29\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060708@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:بزرگداشت مولانا
+DESCRIPTION:شمسی: ۱۴۰۶/۰۷/۰۸\nمیلادی: 2027-09-30\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060720@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:بزرگداشت حافظ
+DESCRIPTION:شمسی: ۱۴۰۶/۰۷/۲۰\nمیلادی: 2027-10-12\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060801@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+SUMMARY:بزرگداشت ابوالفضل بیهقی
+DESCRIPTION:شمسی: ۱۴۰۶/۰۸/۰۱\nمیلادی: 2027-10-23\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060824@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:روز کتاب و کتاب‌خوانی
+DESCRIPTION:شمسی: ۱۴۰۶/۰۸/۲۴\nمیلادی: 2027-11-15\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060925@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20271216
+DTEND;VALUE=DATE:20271217
+SUMMARY:روز پژوهش
+DESCRIPTION:شمسی: ۱۴۰۶/۰۹/۲۵\nمیلادی: 2027-12-16\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14060930@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20271221
+DTEND;VALUE=DATE:20271222
+SUMMARY:شب یلدا
+DESCRIPTION:شمسی: ۱۴۰۶/۰۹/۳۰\nمیلادی: 2027-12-21\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14061004@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:بزرگداشت رودکی
+DESCRIPTION:شمسی: ۱۴۰۶/۱۰/۰۴\nمیلادی: 2027-12-25\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14061205@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280224
+DTEND;VALUE=DATE:20280225
+SUMMARY:بزرگداشت خواجه نصیرالدین طوسی؛ روز م
+ هندس
+DESCRIPTION:شمسی: ۱۴۰۶/۱۲/۰۵\nمیلادی: 2028-02-24\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14061215@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280305
+DTEND;VALUE=DATE:20280306
+SUMMARY:روز درختکاری
+DESCRIPTION:شمسی: ۱۴۰۶/۱۲/۱۵\nمیلادی: 2028-03-05\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14061221@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280311
+DTEND;VALUE=DATE:20280312
+SUMMARY:بزرگداشت نظامی گنجوی
+DESCRIPTION:شمسی: ۱۴۰۶/۱۲/۲۱\nمیلادی: 2028-03-11\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14061225@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280315
+DTEND;VALUE=DATE:20280316
+SUMMARY:بزرگداشت پروین اعتصامی
+DESCRIPTION:شمسی: ۱۴۰۶/۱۲/۲۵\nمیلادی: 2028-03-15\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070101@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280320
+DTEND;VALUE=DATE:20280321
+SUMMARY:جشن نوروز
+DESCRIPTION:شمسی: ۱۴۰۷/۰۱/۰۱\nمیلادی: 2028-03-20\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070106@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280325
+DTEND;VALUE=DATE:20280326
+SUMMARY:زادروز زرتشت
+DESCRIPTION:شمسی: ۱۴۰۷/۰۱/۰۶\nمیلادی: 2028-03-25\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070107@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280326
+DTEND;VALUE=DATE:20280327
+SUMMARY:روز هنرهای نمایشی
+DESCRIPTION:شمسی: ۱۴۰۷/۰۱/۰۷\nمیلادی: 2028-03-26\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070113@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280401
+DTEND;VALUE=DATE:20280402
+SUMMARY:سیزده‌بدر؛ روز طبیعت
+DESCRIPTION:شمسی: ۱۴۰۷/۰۱/۱۳\nمیلادی: 2028-04-01\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070125@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280413
+DTEND;VALUE=DATE:20280414
+SUMMARY:بزرگداشت عطار نیشابوری
+DESCRIPTION:شمسی: ۱۴۰۷/۰۱/۲۵\nمیلادی: 2028-04-13\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070201@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280420
+DTEND;VALUE=DATE:20280421
+SUMMARY:بزرگداشت سعدی؛ روز نثر فارسی
+DESCRIPTION:شمسی: ۱۴۰۷/۰۲/۰۱\nمیلادی: 2028-04-20\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070210@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280429
+DTEND;VALUE=DATE:20280430
+SUMMARY:روز خلیج فارس
+DESCRIPTION:شمسی: ۱۴۰۷/۰۲/۱۰\nمیلادی: 2028-04-29\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070225@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280514
+DTEND;VALUE=DATE:20280515
+SUMMARY:بزرگداشت فردوسی؛ روز زبان فارسی
+DESCRIPTION:شمسی: ۱۴۰۷/۰۲/۲۵\nمیلادی: 2028-05-14\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070228@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280517
+DTEND;VALUE=DATE:20280518
+SUMMARY:بزرگداشت خیام
+DESCRIPTION:شمسی: ۱۴۰۷/۰۲/۲۸\nمیلادی: 2028-05-17\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070301@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280521
+DTEND;VALUE=DATE:20280522
+SUMMARY:بزرگداشت ملاصدرا
+DESCRIPTION:شمسی: ۱۴۰۷/۰۳/۰۱\nمیلادی: 2028-05-21\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070414@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280704
+DTEND;VALUE=DATE:20280705
+SUMMARY:روز قلم
+DESCRIPTION:شمسی: ۱۴۰۷/۰۴/۱۴\nمیلادی: 2028-07-04\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070418@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280708
+DTEND;VALUE=DATE:20280709
+SUMMARY:روز ادبیات کودکان و نوجوانان
+DESCRIPTION:شمسی: ۱۴۰۷/۰۴/۱۸\nمیلادی: 2028-07-08\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070422@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280712
+DTEND;VALUE=DATE:20280713
+SUMMARY:بزرگداشت خوارزمی
+DESCRIPTION:شمسی: ۱۴۰۷/۰۴/۲۲\nمیلادی: 2028-07-12\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070508@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:بزرگداشت سهروردی
+DESCRIPTION:شمسی: ۱۴۰۷/۰۵/۰۸\nمیلادی: 2028-07-29\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070601@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280822
+DTEND;VALUE=DATE:20280823
+SUMMARY:بزرگداشت ابن‌سینا؛ روز پزشک
+DESCRIPTION:شمسی: ۱۴۰۷/۰۶/۰۱\nمیلادی: 2028-08-22\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070605@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280826
+DTEND;VALUE=DATE:20280827
+SUMMARY:بزرگداشت زکریای رازی
+DESCRIPTION:شمسی: ۱۴۰۷/۰۶/۰۵\nمیلادی: 2028-08-26\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070613@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280903
+DTEND;VALUE=DATE:20280904
+SUMMARY:بزرگداشت ابوریحان بیرونی
+DESCRIPTION:شمسی: ۱۴۰۷/۰۶/۱۳\nمیلادی: 2028-09-03\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070621@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280911
+DTEND;VALUE=DATE:20280912
+SUMMARY:روز سینما
+DESCRIPTION:شمسی: ۱۴۰۷/۰۶/۲۱\nمیلادی: 2028-09-11\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070627@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280917
+DTEND;VALUE=DATE:20280918
+SUMMARY:روز شعر و ادب فارسی؛ بزرگداشت شهریار
+DESCRIPTION:شمسی: ۱۴۰۷/۰۶/۲۷\nمیلادی: 2028-09-17\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070707@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280928
+DTEND;VALUE=DATE:20280929
+SUMMARY:بزرگداشت شمس تبریزی
+DESCRIPTION:شمسی: ۱۴۰۷/۰۷/۰۷\nمیلادی: 2028-09-28\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070708@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20280929
+DTEND;VALUE=DATE:20280930
+SUMMARY:بزرگداشت مولانا
+DESCRIPTION:شمسی: ۱۴۰۷/۰۷/۰۸\nمیلادی: 2028-09-29\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070720@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20281011
+DTEND;VALUE=DATE:20281012
+SUMMARY:بزرگداشت حافظ
+DESCRIPTION:شمسی: ۱۴۰۷/۰۷/۲۰\nمیلادی: 2028-10-11\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070801@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20281022
+DTEND;VALUE=DATE:20281023
+SUMMARY:بزرگداشت ابوالفضل بیهقی
+DESCRIPTION:شمسی: ۱۴۰۷/۰۸/۰۱\nمیلادی: 2028-10-22\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070824@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20281114
+DTEND;VALUE=DATE:20281115
+SUMMARY:روز کتاب و کتاب‌خوانی
+DESCRIPTION:شمسی: ۱۴۰۷/۰۸/۲۴\nمیلادی: 2028-11-14\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070925@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20281215
+DTEND;VALUE=DATE:20281216
+SUMMARY:روز پژوهش
+DESCRIPTION:شمسی: ۱۴۰۷/۰۹/۲۵\nمیلادی: 2028-12-15\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14070930@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20281220
+DTEND;VALUE=DATE:20281221
+SUMMARY:شب یلدا
+DESCRIPTION:شمسی: ۱۴۰۷/۰۹/۳۰\nمیلادی: 2028-12-20\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14071004@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20281224
+DTEND;VALUE=DATE:20281225
+SUMMARY:بزرگداشت رودکی
+DESCRIPTION:شمسی: ۱۴۰۷/۱۰/۰۴\nمیلادی: 2028-12-24\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14071205@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290223
+DTEND;VALUE=DATE:20290224
+SUMMARY:بزرگداشت خواجه نصیرالدین طوسی؛ روز م
+ هندس
+DESCRIPTION:شمسی: ۱۴۰۷/۱۲/۰۵\nمیلادی: 2029-02-23\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14071215@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290305
+DTEND;VALUE=DATE:20290306
+SUMMARY:روز درختکاری
+DESCRIPTION:شمسی: ۱۴۰۷/۱۲/۱۵\nمیلادی: 2029-03-05\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14071221@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290311
+DTEND;VALUE=DATE:20290312
+SUMMARY:بزرگداشت نظامی گنجوی
+DESCRIPTION:شمسی: ۱۴۰۷/۱۲/۲۱\nمیلادی: 2029-03-11\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14071225@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290315
+DTEND;VALUE=DATE:20290316
+SUMMARY:بزرگداشت پروین اعتصامی
+DESCRIPTION:شمسی: ۱۴۰۷/۱۲/۲۵\nمیلادی: 2029-03-15\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080101@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290320
+DTEND;VALUE=DATE:20290321
+SUMMARY:جشن نوروز
+DESCRIPTION:شمسی: ۱۴۰۸/۰۱/۰۱\nمیلادی: 2029-03-20\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080106@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290325
+DTEND;VALUE=DATE:20290326
+SUMMARY:زادروز زرتشت
+DESCRIPTION:شمسی: ۱۴۰۸/۰۱/۰۶\nمیلادی: 2029-03-25\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080107@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290326
+DTEND;VALUE=DATE:20290327
+SUMMARY:روز هنرهای نمایشی
+DESCRIPTION:شمسی: ۱۴۰۸/۰۱/۰۷\nمیلادی: 2029-03-26\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080113@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290401
+DTEND;VALUE=DATE:20290402
+SUMMARY:سیزده‌بدر؛ روز طبیعت
+DESCRIPTION:شمسی: ۱۴۰۸/۰۱/۱۳\nمیلادی: 2029-04-01\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080125@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290413
+DTEND;VALUE=DATE:20290414
+SUMMARY:بزرگداشت عطار نیشابوری
+DESCRIPTION:شمسی: ۱۴۰۸/۰۱/۲۵\nمیلادی: 2029-04-13\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080201@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290420
+DTEND;VALUE=DATE:20290421
+SUMMARY:بزرگداشت سعدی؛ روز نثر فارسی
+DESCRIPTION:شمسی: ۱۴۰۸/۰۲/۰۱\nمیلادی: 2029-04-20\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080210@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290429
+DTEND;VALUE=DATE:20290430
+SUMMARY:روز خلیج فارس
+DESCRIPTION:شمسی: ۱۴۰۸/۰۲/۱۰\nمیلادی: 2029-04-29\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080225@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290514
+DTEND;VALUE=DATE:20290515
+SUMMARY:بزرگداشت فردوسی؛ روز زبان فارسی
+DESCRIPTION:شمسی: ۱۴۰۸/۰۲/۲۵\nمیلادی: 2029-05-14\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080228@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290517
+DTEND;VALUE=DATE:20290518
+SUMMARY:بزرگداشت خیام
+DESCRIPTION:شمسی: ۱۴۰۸/۰۲/۲۸\nمیلادی: 2029-05-17\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080301@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290521
+DTEND;VALUE=DATE:20290522
+SUMMARY:بزرگداشت ملاصدرا
+DESCRIPTION:شمسی: ۱۴۰۸/۰۳/۰۱\nمیلادی: 2029-05-21\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080414@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290704
+DTEND;VALUE=DATE:20290705
+SUMMARY:روز قلم
+DESCRIPTION:شمسی: ۱۴۰۸/۰۴/۱۴\nمیلادی: 2029-07-04\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080418@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290708
+DTEND;VALUE=DATE:20290709
+SUMMARY:روز ادبیات کودکان و نوجوانان
+DESCRIPTION:شمسی: ۱۴۰۸/۰۴/۱۸\nمیلادی: 2029-07-08\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080422@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290712
+DTEND;VALUE=DATE:20290713
+SUMMARY:بزرگداشت خوارزمی
+DESCRIPTION:شمسی: ۱۴۰۸/۰۴/۲۲\nمیلادی: 2029-07-12\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080508@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290729
+DTEND;VALUE=DATE:20290730
+SUMMARY:بزرگداشت سهروردی
+DESCRIPTION:شمسی: ۱۴۰۸/۰۵/۰۸\nمیلادی: 2029-07-29\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080601@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290822
+DTEND;VALUE=DATE:20290823
+SUMMARY:بزرگداشت ابن‌سینا؛ روز پزشک
+DESCRIPTION:شمسی: ۱۴۰۸/۰۶/۰۱\nمیلادی: 2029-08-22\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080605@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290826
+DTEND;VALUE=DATE:20290827
+SUMMARY:بزرگداشت زکریای رازی
+DESCRIPTION:شمسی: ۱۴۰۸/۰۶/۰۵\nمیلادی: 2029-08-26\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080613@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290903
+DTEND;VALUE=DATE:20290904
+SUMMARY:بزرگداشت ابوریحان بیرونی
+DESCRIPTION:شمسی: ۱۴۰۸/۰۶/۱۳\nمیلادی: 2029-09-03\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080621@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290911
+DTEND;VALUE=DATE:20290912
+SUMMARY:روز سینما
+DESCRIPTION:شمسی: ۱۴۰۸/۰۶/۲۱\nمیلادی: 2029-09-11\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080627@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+SUMMARY:روز شعر و ادب فارسی؛ بزرگداشت شهریار
+DESCRIPTION:شمسی: ۱۴۰۸/۰۶/۲۷\nمیلادی: 2029-09-17\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080707@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290928
+DTEND;VALUE=DATE:20290929
+SUMMARY:بزرگداشت شمس تبریزی
+DESCRIPTION:شمسی: ۱۴۰۸/۰۷/۰۷\nمیلادی: 2029-09-28\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080708@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20290929
+DTEND;VALUE=DATE:20290930
+SUMMARY:بزرگداشت مولانا
+DESCRIPTION:شمسی: ۱۴۰۸/۰۷/۰۸\nمیلادی: 2029-09-29\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080720@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20291011
+DTEND;VALUE=DATE:20291012
+SUMMARY:بزرگداشت حافظ
+DESCRIPTION:شمسی: ۱۴۰۸/۰۷/۲۰\nمیلادی: 2029-10-11\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080801@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20291022
+DTEND;VALUE=DATE:20291023
+SUMMARY:بزرگداشت ابوالفضل بیهقی
+DESCRIPTION:شمسی: ۱۴۰۸/۰۸/۰۱\nمیلادی: 2029-10-22\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080824@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20291114
+DTEND;VALUE=DATE:20291115
+SUMMARY:روز کتاب و کتاب‌خوانی
+DESCRIPTION:شمسی: ۱۴۰۸/۰۸/۲۴\nمیلادی: 2029-11-14\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080925@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20291215
+DTEND;VALUE=DATE:20291216
+SUMMARY:روز پژوهش
+DESCRIPTION:شمسی: ۱۴۰۸/۰۹/۲۵\nمیلادی: 2029-12-15\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14080930@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20291220
+DTEND;VALUE=DATE:20291221
+SUMMARY:شب یلدا
+DESCRIPTION:شمسی: ۱۴۰۸/۰۹/۳۰\nمیلادی: 2029-12-20\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14081004@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20291224
+DTEND;VALUE=DATE:20291225
+SUMMARY:بزرگداشت رودکی
+DESCRIPTION:شمسی: ۱۴۰۸/۱۰/۰۴\nمیلادی: 2029-12-24\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14081205@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300223
+DTEND;VALUE=DATE:20300224
+SUMMARY:بزرگداشت خواجه نصیرالدین طوسی؛ روز م
+ هندس
+DESCRIPTION:شمسی: ۱۴۰۸/۱۲/۰۵\nمیلادی: 2030-02-23\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14081215@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300305
+DTEND;VALUE=DATE:20300306
+SUMMARY:روز درختکاری
+DESCRIPTION:شمسی: ۱۴۰۸/۱۲/۱۵\nمیلادی: 2030-03-05\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14081221@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300311
+DTEND;VALUE=DATE:20300312
+SUMMARY:بزرگداشت نظامی گنجوی
+DESCRIPTION:شمسی: ۱۴۰۸/۱۲/۲۱\nمیلادی: 2030-03-11\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14081225@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300315
+DTEND;VALUE=DATE:20300316
+SUMMARY:بزرگداشت پروین اعتصامی
+DESCRIPTION:شمسی: ۱۴۰۸/۱۲/۲۵\nمیلادی: 2030-03-15\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090101@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300321
+DTEND;VALUE=DATE:20300322
+SUMMARY:جشن نوروز
+DESCRIPTION:شمسی: ۱۴۰۹/۰۱/۰۱\nمیلادی: 2030-03-21\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090106@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300326
+DTEND;VALUE=DATE:20300327
+SUMMARY:زادروز زرتشت
+DESCRIPTION:شمسی: ۱۴۰۹/۰۱/۰۶\nمیلادی: 2030-03-26\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090107@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300327
+DTEND;VALUE=DATE:20300328
+SUMMARY:روز هنرهای نمایشی
+DESCRIPTION:شمسی: ۱۴۰۹/۰۱/۰۷\nمیلادی: 2030-03-27\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090113@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300402
+DTEND;VALUE=DATE:20300403
+SUMMARY:سیزده‌بدر؛ روز طبیعت
+DESCRIPTION:شمسی: ۱۴۰۹/۰۱/۱۳\nمیلادی: 2030-04-02\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090125@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300414
+DTEND;VALUE=DATE:20300415
+SUMMARY:بزرگداشت عطار نیشابوری
+DESCRIPTION:شمسی: ۱۴۰۹/۰۱/۲۵\nمیلادی: 2030-04-14\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090201@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300421
+DTEND;VALUE=DATE:20300422
+SUMMARY:بزرگداشت سعدی؛ روز نثر فارسی
+DESCRIPTION:شمسی: ۱۴۰۹/۰۲/۰۱\nمیلادی: 2030-04-21\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090210@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:روز خلیج فارس
+DESCRIPTION:شمسی: ۱۴۰۹/۰۲/۱۰\nمیلادی: 2030-04-30\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090225@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300515
+DTEND;VALUE=DATE:20300516
+SUMMARY:بزرگداشت فردوسی؛ روز زبان فارسی
+DESCRIPTION:شمسی: ۱۴۰۹/۰۲/۲۵\nمیلادی: 2030-05-15\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090228@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300518
+DTEND;VALUE=DATE:20300519
+SUMMARY:بزرگداشت خیام
+DESCRIPTION:شمسی: ۱۴۰۹/۰۲/۲۸\nمیلادی: 2030-05-18\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090301@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300522
+DTEND;VALUE=DATE:20300523
+SUMMARY:بزرگداشت ملاصدرا
+DESCRIPTION:شمسی: ۱۴۰۹/۰۳/۰۱\nمیلادی: 2030-05-22\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090414@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300705
+DTEND;VALUE=DATE:20300706
+SUMMARY:روز قلم
+DESCRIPTION:شمسی: ۱۴۰۹/۰۴/۱۴\nمیلادی: 2030-07-05\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090418@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300709
+DTEND;VALUE=DATE:20300710
+SUMMARY:روز ادبیات کودکان و نوجوانان
+DESCRIPTION:شمسی: ۱۴۰۹/۰۴/۱۸\nمیلادی: 2030-07-09\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090422@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300713
+DTEND;VALUE=DATE:20300714
+SUMMARY:بزرگداشت خوارزمی
+DESCRIPTION:شمسی: ۱۴۰۹/۰۴/۲۲\nمیلادی: 2030-07-13\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090508@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300730
+DTEND;VALUE=DATE:20300731
+SUMMARY:بزرگداشت سهروردی
+DESCRIPTION:شمسی: ۱۴۰۹/۰۵/۰۸\nمیلادی: 2030-07-30\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090601@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300823
+DTEND;VALUE=DATE:20300824
+SUMMARY:بزرگداشت ابن‌سینا؛ روز پزشک
+DESCRIPTION:شمسی: ۱۴۰۹/۰۶/۰۱\nمیلادی: 2030-08-23\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090605@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300827
+DTEND;VALUE=DATE:20300828
+SUMMARY:بزرگداشت زکریای رازی
+DESCRIPTION:شمسی: ۱۴۰۹/۰۶/۰۵\nمیلادی: 2030-08-27\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090613@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300904
+DTEND;VALUE=DATE:20300905
+SUMMARY:بزرگداشت ابوریحان بیرونی
+DESCRIPTION:شمسی: ۱۴۰۹/۰۶/۱۳\nمیلادی: 2030-09-04\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090621@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300912
+DTEND;VALUE=DATE:20300913
+SUMMARY:روز سینما
+DESCRIPTION:شمسی: ۱۴۰۹/۰۶/۲۱\nمیلادی: 2030-09-12\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090627@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300918
+DTEND;VALUE=DATE:20300919
+SUMMARY:روز شعر و ادب فارسی؛ بزرگداشت شهریار
+DESCRIPTION:شمسی: ۱۴۰۹/۰۶/۲۷\nمیلادی: 2030-09-18\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090707@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300929
+DTEND;VALUE=DATE:20300930
+SUMMARY:بزرگداشت شمس تبریزی
+DESCRIPTION:شمسی: ۱۴۰۹/۰۷/۰۷\nمیلادی: 2030-09-29\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090708@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20300930
+DTEND;VALUE=DATE:20301001
+SUMMARY:بزرگداشت مولانا
+DESCRIPTION:شمسی: ۱۴۰۹/۰۷/۰۸\nمیلادی: 2030-09-30\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090720@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20301012
+DTEND;VALUE=DATE:20301013
+SUMMARY:بزرگداشت حافظ
+DESCRIPTION:شمسی: ۱۴۰۹/۰۷/۲۰\nمیلادی: 2030-10-12\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090801@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20301023
+DTEND;VALUE=DATE:20301024
+SUMMARY:بزرگداشت ابوالفضل بیهقی
+DESCRIPTION:شمسی: ۱۴۰۹/۰۸/۰۱\nمیلادی: 2030-10-23\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090824@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20301115
+DTEND;VALUE=DATE:20301116
+SUMMARY:روز کتاب و کتاب‌خوانی
+DESCRIPTION:شمسی: ۱۴۰۹/۰۸/۲۴\nمیلادی: 2030-11-15\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090925@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20301216
+DTEND;VALUE=DATE:20301217
+SUMMARY:روز پژوهش
+DESCRIPTION:شمسی: ۱۴۰۹/۰۹/۲۵\nمیلادی: 2030-12-16\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14090930@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20301221
+DTEND;VALUE=DATE:20301222
+SUMMARY:شب یلدا
+DESCRIPTION:شمسی: ۱۴۰۹/۰۹/۳۰\nمیلادی: 2030-12-21\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14091004@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20301225
+DTEND;VALUE=DATE:20301226
+SUMMARY:بزرگداشت رودکی
+DESCRIPTION:شمسی: ۱۴۰۹/۱۰/۰۴\nمیلادی: 2030-12-25\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14091205@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20310224
+DTEND;VALUE=DATE:20310225
+SUMMARY:بزرگداشت خواجه نصیرالدین طوسی؛ روز م
+ هندس
+DESCRIPTION:شمسی: ۱۴۰۹/۱۲/۰۵\nمیلادی: 2031-02-24\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14091215@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20310306
+DTEND;VALUE=DATE:20310307
+SUMMARY:روز درختکاری
+DESCRIPTION:شمسی: ۱۴۰۹/۱۲/۱۵\nمیلادی: 2031-03-06\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14091221@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20310312
+DTEND;VALUE=DATE:20310313
+SUMMARY:بزرگداشت نظامی گنجوی
+DESCRIPTION:شمسی: ۱۴۰۹/۱۲/۲۱\nمیلادی: 2031-03-12\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iran-culture-14091225@independent-persian-calendar
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20310316
+DTEND;VALUE=DATE:20310317
+SUMMARY:بزرگداشت پروین اعتصامی
+DESCRIPTION:شمسی: ۱۴۰۹/۱۲/۲۵\nمیلادی: 2031-03-16\nگزی
+ دهٔ مناسبت‌های فرهنگی با تاریخ ثابت شمس
+ ی؛ تکرار بر مبنای تقویم ۱۴۰۵. این عنوان ب
+ ه‌تنهایی به معنی تعطیلی نیست.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
